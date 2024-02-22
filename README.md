@@ -1,2 +1,2 @@
 # hello_random
-print 409500229
+409500229
